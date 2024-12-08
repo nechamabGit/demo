@@ -1,2 +1,4 @@
 # test
-this is my RREDME text
+this is my REDME text
+## second test
+and now i add text
